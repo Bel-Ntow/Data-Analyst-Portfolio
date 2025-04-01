@@ -1,4 +1,3 @@
-# Data-Analyst-Portfolio
 #  Belinda Ntow - Data Analyst Portfolio
   Hello, I'm Belinda, and welcome to my portfolio!
 I turn raw data into actionable insights through data cleaning, analysis, and visualization with SQL, Python, Excel, and Power BI.
@@ -7,6 +6,9 @@ I turn raw data into actionable insights through data cleaning, analysis, and vi
  1. [Personal Information](#personal-information)
  2. [Bio](#bio)
  3. [Portfolio Projects](#portfoli-projects)
+    - [PowerBI](#PowerBI)
+        -[Tourism Analytics](#Tourism-Analytics)
+        -[Retail Sales Analysis](#Retail-Sales-Analysis)
     - [Excel](#excel)
       - [Product Sales Analysis](#product-sales-analysis)
       - [E-Commerce Sales & Revenue Analysis](#e-commerce-sales-&-revenue-analysis)
@@ -66,7 +68,10 @@ In this section, I showcase various data analysis projects using Excel, highligh
 
 📸 **Visual Insights: Sales Performance at a Glance**
 
-[![Interactive Sales Dashboard](https://github.com/Bel-Ntow/Product_Sales_Dashbord_Screenshot/raw/main/dashboard_image.png)](https://github.com/Bel-Ntow/Product_Sales_Dashbord_Screenshot/raw/main/dashboard_image.png)
+[![Interactive Sales Dashboard](https://github.com/Bel-Ntow/Data-Analyst-Portfolio/blob/main/Projects_Files/Product_Sales_Performance_Image.png?raw=true)
+
+
+
 
 [![Sales Performance Summary](https://github.com/Bel-Ntow/Repo_Name/raw/main/summary_image.png)](https://github.com/Bel-Ntow/Repo_Name/raw/main/summary_image.png)
 
