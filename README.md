@@ -39,16 +39,20 @@ This section highlights some of my data analysis projects, showcasing my skills 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
   
 #### 1. Retail Sales Analysis
- Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard highlights top-selling products, sales trends, and geographic performance.
+Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard highlights top-selling products, sales trends, and geographic performance.
 
-**View Dashboard**:
-**Project File**:
-Download Power BI File
+<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" width="900"/>
+
+
+[View Retail Analysis Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
+
+
 
 #### 2. Tourism Analysis
  Explored tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.
+<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" width="850"/>
 
-**Dashboard Preview**
+
 
 **Project File**
 
