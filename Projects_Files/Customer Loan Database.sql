@@ -1,4 +1,4 @@
--- Create the Customer Loan Database
+-- Customer Loan Database
 CREATE DATABASE CustomerLoanDB;
 USE CustomerLoanDB;
 
