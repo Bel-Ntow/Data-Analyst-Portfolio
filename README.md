@@ -4,7 +4,7 @@
  ## Table of Contents
  1. [Personal Information](#personal-information)
  2. [About Me](#about-Me)
- 3. [Portfolio Projects](#portfolio-projects)
+ 3.  [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
     - [Excel](#excel)
     - [SQL](#sql)
@@ -30,7 +30,7 @@ I’m a data analyst with a background in Economics and a strong passion for usi
 
 
 
-## Portfolio  Projects  
+## Portfolio Projects  
 
 This section highlights some of my data analysis projects, showcasing my skills with various tools to analyse data, derive insights and solve real-world problems.
 
