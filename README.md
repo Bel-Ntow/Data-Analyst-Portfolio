@@ -4,7 +4,7 @@
  ## Table of Contents
  1. [Personal Information](#personal-information)
  2. [About Me](#about-Me)
- 3.  [Portfolio Projects](#portfolio-projects)
+ 3. [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
     - [Excel](#excel)
     - [SQL](#sql)
