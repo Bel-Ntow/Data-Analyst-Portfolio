@@ -3,14 +3,14 @@
   
  ## Table of Contents
  1. [Personal Information](#personal-information)
- 2. [About Me](#About-Me)
+ 2. [About Me](#about-Me)
  3. [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
     - [Excel](#excel)
     - [SQL](#sql)
       
     
-##  Personal Information  🔹
+##  Personal Information  
 
 -   **Name:** Belinda Ansabea Ntow 
 
@@ -23,14 +23,14 @@
 
 
 
-##  About Me 🔹
+##  About Me 
 
 I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual internships and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
 
 
 
 
-## Portfolio  Projects 🔹 
+## Portfolio  Projects  
 
 This section highlights some of my data analysis projects, showcasing my skills with various tools to analyse data, derive insights and solve real-world problems.
 
