@@ -1,8 +1,8 @@
 #  Belinda Ntow - Data Analyst Portfolio
-  Hello! I’m Belinda Ntow, a data analyst passionate about transforming raw data into actionable insights. With expertise in SQL, Python, Excel, and Power BI, I’m excited to help businesses uncover trends and make data-driven decisions.
+  Hello! I’m Belinda Ntow, a data analyst passionate about transforming raw data into actionable insights. With expertise in SQL, Excel and Power BI, I’m excited to help businesses uncover trends and make data-driven decisions.
   
  ## Table of Contents
- 1. [Personal Information](#personalinformation)
+ 1. [Personal Information](#personal-information)
  2. [About Me](#About-Me)
  3. [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
@@ -10,7 +10,7 @@
     - [SQL](#sql)
       
     
-## 🔹 Personal Information  
+##  Personal Information  🔹
 
 -   **Name:** Belinda Ansabea Ntow 
 
@@ -23,14 +23,14 @@
 
 
 
-## 🔹 About Me
+##  About Me 🔹
 
-I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Python, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual internships and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
-
-
+I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual internships and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
 
 
-## 🔹Portfolio  Projects  
+
+
+## Portfolio  Projects 🔹 
 
 This section highlights some of my data analysis projects, showcasing my skills with various tools to analyse data, derive insights and solve real-world problems.
 
@@ -72,7 +72,7 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
  #### 2. HR Analysis
  Analyzed HR data to determine total employees, average salary, training costs, performance ratings, and department-wise performance distribution. 
  
-**Dashboard Preview**:
+
 
 [Explore Project File](Projects_Files/HR%20Workforce%20Performance%20Analysis.xlsx)
 
