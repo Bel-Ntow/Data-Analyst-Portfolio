@@ -39,22 +39,24 @@ This section highlights some of my data analysis projects, showcasing my skills 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
   
 #### 1. Retail Sales Analysis
-Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard highlights top-selling products, sales trends, and geographic performance.
+Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard highlights top-selling products, sales trends, and location performance.
 
 <img src="Projects_Files/Retail_Sales_Dashboard_Image.png" width="900"/>
 
 
-[View Retail Analysis Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
+[Explore Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
 
 
 
 #### 2. Tourism Analysis
  Explored tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.
-<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" width="850"/>
+
+
+<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 50%; height: auto;">
 
 
 
-**Project File**
+[Explore Project File](Projects_Files/Tourism%20Analysis.pbix)
 
 ### ►**Excel**
 These projects showcase how I used Excel for data cleaning, analysis, and visualization.
@@ -64,27 +66,27 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
 
 **Dashboard Preview**
 
-**Project File**
+[Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
 
 
  #### 2. HR Analysis
  Analyzed HR data to determine total employees, average salary, training costs, performance ratings, and department-wise performance distribution. 
  
 **Dashboard Preview**:
-View Dashboard
-**Project File**:
+
+[Explore Project File](Projects_Files/HR%20Workforce%20Performance%20Analysis.xlsx)
 
 ### ►**SQL**
 In these projects, I used SQL for querying, manipulating, and analyzing datasets to derive insights.
   
 #### 1.  Customer Loan Database Analysis
 Created and analyzed a customer loan database to assess loan performance, customer repayment behavior, and outstanding balances using SQL queries.
-**View Code:**
+[Explore Code](Projects_Files/Customer%20Loan%20Database.sql)
 
 #### 2. Sales Analysis
 Used SQL to clean and analyze sales data, uncover trends, and evaluate performance across different segments.
 
-**View Code:**
+[Explore Code](Projects_Files/Salesr%20Analysis.sql)
 
 
 
