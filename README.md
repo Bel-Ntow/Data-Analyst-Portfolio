@@ -58,6 +58,8 @@ Analyzed tourism data to identify trends in visitor inflows, revenue generation 
 
 [Explore Project File](Projects_Files/Tourism%20Analysis.pbix)
 
+---
+
 ### ►**Excel**
 These projects showcase how I used Excel for data cleaning, analysis, and visualization.
 
@@ -75,6 +77,8 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
 
 
 [Explore Project File](Projects_Files/HR%20Workforce%20Performance%20Analysis.xlsx)
+
+---
 
 ### ►**SQL**
 In these projects, I used SQL for querying, manipulating, and analyzing datasets to derive insights.
