@@ -2,9 +2,9 @@
   Hello! I’m Belinda Ntow, a data analyst passionate about transforming raw data into actionable insights. With expertise in SQL, Python, Excel, and Power BI, I’m excited to help businesses uncover trends and make data-driven decisions.
   
  ## Table of Contents
- 1. [Personal Information](#personal-information)
+ 1. [Personal Information](#personalinformation)
  2. [About Me](#About-Me)
- 3. [Portfolio Projects](#portfoli-projects)
+ 3. [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
     - [Excel](#excel)
     - [SQL](#sql)
@@ -39,9 +39,9 @@ This section highlights some of my data analysis projects, showcasing my skills 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
   
 #### 1. Retail Sales Analysis
-Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard highlights top-selling products, sales trends, and location performance.
+Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard below visualizes these insights, providing a clear view of the data trends.
 
-<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" width="900"/>
+<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" style="width: 80%; height: auto;">
 
 
 [Explore Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
@@ -49,10 +49,10 @@ Analyzed retail sales data to uncover key trends in product performance, regiona
 
 
 #### 2. Tourism Analysis
- Explored tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.
+Analyzed tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.The interactive dashboard below visualizes key insights, providing a clear representation of these findings
 
 
-<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 50%; height: auto;">
+<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 80%; height: auto;">
 
 
 
@@ -62,9 +62,9 @@ Analyzed retail sales data to uncover key trends in product performance, regiona
 These projects showcase how I used Excel for data cleaning, analysis, and visualization.
 
 #### 1. Product Sales Analysis  
- Analyzed product sales data to track units sold and revenue by region, identify monthly sales trends, and compare pricing and sales volume between November and December to understand the decline in sales. 
+ Analyzed product sales data to track units sold and revenue by region, identify monthly sales trends, and compare pricing and sales volume between November and December to understand the decline in sales. The interactive dashboard below visualizes these insights, providing a clear view of the data trends.
 
-**Dashboard Preview**
+<img src="Projects_Files/Product_Sales_Performance_Image.png" style="width: 80%; height: auto;">
 
 [Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
 
@@ -81,6 +81,7 @@ In these projects, I used SQL for querying, manipulating, and analyzing datasets
   
 #### 1.  Customer Loan Database Analysis
 Created and analyzed a customer loan database to assess loan performance, customer repayment behavior, and outstanding balances using SQL queries.
+
 [Explore Code](Projects_Files/Customer%20Loan%20Database.sql)
 
 #### 2. Sales Analysis
