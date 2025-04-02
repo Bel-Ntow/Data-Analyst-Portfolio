@@ -41,7 +41,7 @@ In these projects, I used Power BI for data transformation, modeling, and visual
 #### 1. Retail Sales Analysis
 Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard below visualizes these insights, providing a clear view of the data trends.
 
-<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" style="width: 80%; height: auto;">
+<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" style="width: 100%; height: auto;">
 
 
 [Explore Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
@@ -52,7 +52,7 @@ Analyzed retail sales data to uncover key trends in product performance, regiona
 Analyzed tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.The interactive dashboard below visualizes key insights, providing a clear representation of these findings
 
 
-<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 80%; height: auto;">
+<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 100%; height: auto;">
 
 
 
@@ -66,7 +66,7 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
 #### 1. Product Sales Analysis  
  Analyzed product sales data to track units sold and revenue by region, identify monthly sales trends, and compare pricing and sales volume between November and December to understand the decline in sales. The interactive dashboard below visualizes these insights, providing a clear view of the data trends.
 
-<img src="Projects_Files/Product_Sales_Performance_Image.png" style="width: 80%; height: auto;">
+<img src="Projects_Files/Product_Sales_Performance_Image.png" style="width: 100%; height: auto;">
 
 [Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
 
