@@ -71,12 +71,12 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
 [Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
 
 
- #### 2. HR Analysis
- Analyzed HR data to determine total employees, average salary, training costs, performance ratings, and department-wise performance distribution. 
- 
+ #### 2.Employee Performance Analysis
+Analyzed employee performance data to visualize employee distribution by performance category, highlight the top 5 roles by average rating, and assess the impact of training costs on performance ratings. The dashboard provides clear insights to support informed HR decisions.
 
+<img src="Projects_Files/Employee_Performance.png" style="width: 100%; height: auto;">
 
-[Explore Project File](Projects_Files/HR%20Workforce%20Performance%20Analysis.xlsx)
+[Explore Project File](Projects_Files/Employee%20Performance%20%20Analytics.xlsx)
 
 ---
 
