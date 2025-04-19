@@ -41,7 +41,7 @@ In these projects, I used Power BI for data transformation, modeling, and visual
 #### 1. Retail Sales Analysis
 Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard below visualizes these insights, providing a clear view of the data trends.
 
-<img src="Projects_Files/Retail_Sales_Dashboard_Image.png" style="width: 100%; height: auto;">
+<img src="Projects_Files/Retail_Sales_Dashboard.png" style="width: 100%; height: auto;">
 
 
 [Explore Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
@@ -57,6 +57,12 @@ Analyzed tourism data to identify trends in visitor inflows, revenue generation 
 
 
 [Explore Project File](Projects_Files/Tourism%20Analysis.pbix)
+
+
+#### 3. Call Centre Analysis – Efficiency and Satisfaction
+Analyzed 5,000 rows of call centre data by cleaning in Excel and visualizing in Power BI to assess agent efficiency, call resolution rates, and customer satisfaction trends.
+
+<img src="Projects_Files/Call_Centre Dashboard_Image.png" style="width: 100%; height: auto;">
 
 ---
 
