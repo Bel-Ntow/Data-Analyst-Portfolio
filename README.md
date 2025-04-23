@@ -4,7 +4,8 @@
  ## Table of Contents
  1. [Personal Information](#personal-information)
  2. [About Me](#about-Me)
- 3. [Portfolio Projects](#portfolio-projects)
+ 3. [Skills](#Skills)
+ 4. [Portfolio Projects](#portfolio-projects)
     - [PowerBI](#PowerBI)
     - [Excel](#excel)
     - [SQL](#sql)
@@ -26,6 +27,15 @@
 ##  About Me 
 
 I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual internships and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
+
+
+##  Skills
+- Languages: Python, SQL 
+-	Libraries: Pandas, Matplotlib, Seaborn 
+-	Data Visualization: Power BI, Advanced Excel (Charts, Pivot tables) 
+-	Data Handling: Data Entry & Processing, Data Cleaning, Data Wrangling 
+-	Reporting & Documentation: Advanced Excel, MS Word, PowerPoint 
+-	Techniques: Statistical Analysis, Exploratory Data Analysis (EDA) 
 
 
 
