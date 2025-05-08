@@ -88,8 +88,21 @@ These projects showcase how I used Excel for data cleaning, analysis, and visual
 
 [Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
 
+#### 2.Digital Advertising Campaign Analysis
+Analyzed the performance of digital advertising campaigns for **CreativePulse Media**, a digital media agency. 
 
- #### 2.Employee Performance Analysis
+#### Objective : 
+The  goal of the project was to uncover trends in client retention, campaign performance, and ROI to help improve future campaigns and client satisfaction.
+
+###  Key Insights
+
+- Clients who invested more in ads achieved better conversion results, with a strong positive correlation (**0.87**) between ad spend and conversions.  
+- Despite high performance, some clients still churned, especially in certain industries.  highlighting the need for **clearer ROI communication** and **industry-specific retention strategies**.
+
+<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Digital_Advertising_Performance_Analysis/Creative_Pulse_Media_Dashboard.png" alt="Creative_Pulse_Media_Dashboard" style="width: 100%; height: auto;">
+
+
+ #### 3.Employee Performance Analysis
 Analyzed employee performance data to visualize employee distribution by performance category, highlight the top 5 roles by average rating, and assess the impact of training costs on performance ratings. The dashboard provides clear insights to support informed HR decisions.
 
 <img src="Projects_Files/Employee_Performancepng.png" style="width: 100%; height: auto;">
