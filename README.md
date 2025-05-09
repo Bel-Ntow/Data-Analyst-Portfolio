@@ -26,16 +26,16 @@
 
 ##  About Me 
 
-I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual internships and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
+I’m a data analyst with a background in Economics and a strong passion for using data to drive impactful business decisions. After completing an intensive data analysis training, I've gained hands-on experience with tools like SQL, Excel, and Power BI, allowing me to dive into real-world projects. My journey has been shaped by various courses, virtual simulations and personal projects where I worked with datasets to uncover trends, solve problems, and deliver actionable insights. Excited to apply my skills in dynamic teams, I’m ready to help businesses unlock the full potential of their data.
 
 
 ##  Skills
-- Languages: Python, SQL 
--	Libraries: Pandas, Matplotlib, Seaborn 
--	Data Visualization: Power BI, Advanced Excel (Charts, Pivot tables) 
--	Data Handling: Data Entry & Processing, Data Cleaning, Data Wrangling 
--	Reporting & Documentation: Advanced Excel, MS Word, PowerPoint 
--	Techniques: Statistical Analysis, Exploratory Data Analysis (EDA) 
+- **Languages:** Python, SQL 
+-	**Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+-	**Data Visualization:** Power BI, Advanced Excel  
+-	**Data Handling:** Data Entry & Processing, Data Cleaning, Data Wrangling 
+-	**Reporting & Documentation:** Advanced Excel, MS Word, PowerPoint 
+-	**Techniques:** Statistical Analysis, Exploratory Data Analysis (EDA) 
 
 
 
@@ -56,21 +56,26 @@ Analyzed retail sales data to uncover key trends in product performance, regiona
 
 
 
-#### 2. Tourism Analysis
-Analyzed tourism data to identify trends in visitor inflows, revenue generation and seasonal patterns.The interactive dashboard below visualizes key insights, providing a clear representation of these findings
+#### 2. NovaPay Transaction Analysis
+Analyzed transaction data for a Ghana-based fintech company (pseudonym: NovaPay) to uncover trends in service usage, customer behavior, and system performance.
 
+**Objective:**  To identify key performance issues and usage patterns that can support growth and improve transaction reliability.
 
-<img src="Projects_Files/Tourism_Analytics Dashboard_Image.png" style="width: 100%; height: auto;">
+**Key Insight:** NovaPay achieved a 92% transaction success rate, but most failures occurred in Loan Repayments and Bill Payments. Additionally, Accra, despite being the capital, had the lowest customer activity, highlighting untapped engagement potential that could be addressed through targeted marketing or outreach efforts.
 
-
-
-[Explore Project File](Projects_Files/Tourism%20Analysis.pbix)
+<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/NovaPay_Transaction_Insights/NovaPay_Transaction_Analysis_Dashboard.png" alt="NovaPay_Transaction_Analysis_Dashboard" width="100%">
 
 
 #### 3. Call Centre Analysis – Efficiency and Satisfaction
-Analyzed 5,000 rows of call centre data by cleaning in Excel and visualizing in Power BI to assess agent efficiency, call resolution rates, and customer satisfaction trends.
+Analyzed 5,000 call centre records from January to March to uncover trends in service delivery and agent performance.
+
+**Objective:** The goal of the project was to identify trends in service delivery and agent performance to improve efficiency and customer experience.
+
+**Key Insight:** 27% of calls were unresolved and the average customer satisfaction rating was just 2.76, indicating a need to improve resolution processes and provide additional agent training to enhance both efficiency and customer experience
 
 <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Call_Centre_Analysis/Call_Centre_Dashboard.png" alt="Call Centre Dashboard" width="100%">
+
+[Explore Project File]
 
 
 
