@@ -48,11 +48,17 @@ This section highlights some of my data analysis projects, showcasing my skills 
 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
   
-#### 1. Retail Sales Analysis
-Analyzed retail sales data to uncover key trends in product performance, regional sales, and seasonal patterns. The dashboard below visualizes these insights, providing a clear view of the data trends.
+#### 1. Retail Sales Analysis  
+Analyzed monthly sales data from two retail stores to assess performance across time and locations.  
+
+**Objective**: The goal was to evaluate how sales performed throughout the year and between Store A and Store B, to uncover trends that could guide inventory planning and marketing strategies.  
+
+**Key Insight**: Store A generated higher overall sales ($38,000 vs. $27,000) and consistently outperformed in key categories like Electronics and Clothing, while sales peaked in June and dropped sharply in December — highlighting both location-based performance gaps and seasonal demand trends.  
+
+
 <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Retail_Sales_Analysis/Retail_Sales_Performance_Dashboard.png" alt="Retail Sales Dashboard" style="width: 100%; height: auto;">
 
-[Explore Project File](Projects_Files/Retail%20Sales%20Analysis.pbix)
+[View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/Retail_Sales_Analysis)
 
 
 
@@ -65,8 +71,11 @@ Analyzed transaction data for a Ghana-based fintech company (pseudonym: NovaPay)
 
 <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/NovaPay_Transaction_Insights/NovaPay_Transaction_Analysis_Dashboard.png" alt="NovaPay_Transaction_Analysis_Dashboard" width="100%">
 
+[View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/NovaPay_Transaction_Insights)
 
-#### 3. Call Centre Analysis – Efficiency and Satisfaction
+
+
+#### 3. Call Centre Analysis 
 Analyzed 5,000 call centre records from January to March to uncover trends in service delivery and agent performance.
 
 **Objective:** The goal of the project was to identify trends in service delivery and agent performance to improve efficiency and customer experience.
@@ -75,7 +84,9 @@ Analyzed 5,000 call centre records from January to March to uncover trends in se
 
 <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Call_Centre_Analysis/Call_Centre_Dashboard.png" alt="Call Centre Dashboard" width="100%">
 
-[Explore Project File]
+[View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/Call_Centre_Analysis)
+
+
 
 
 
@@ -85,27 +96,26 @@ Analyzed 5,000 call centre records from January to March to uncover trends in se
 These projects showcase how I used Excel for data cleaning, analysis, and visualization.
 
 #### 1. Product Sales Analysis  
- Analyzed product sales data to track units sold and revenue by region, identify monthly sales trends, and compare pricing and sales volume between November and December to understand the decline in sales. The interactive dashboard below visualizes these insights, providing a clear view of the data trends.
+Analyzed product sales data from November and December to uncover trends in revenue, sales volume, product performance, and regional and salesperson contributions.  
 
+**Objective**: The goal was to understand the factors behind sales fluctuations across the two months, particularly the decline in December and identify which products, regions, and individuals most influenced overall performance.  
+
+**Key Insight**: A total of 2,580 units were sold, generating GHS 80,421 in revenue, but sales dropped by 48.6% in December due to fewer sales weeks and no contribution from the South region.
 
 <img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Sales_Performance_Analysis/Sales_Analysis_Dashboard.png" alt="Sales Analysis Dashboard" style="width: 100%; height: auto;">
 
-
-[Explore Project File](Projects_Files/Product%20Sales%20Analysis.xlsx)
+[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Sales_Performance_Analysis)
 
 #### 2.Digital Advertising Campaign Analysis
 Analyzed the performance of digital advertising campaigns for **CreativePulse Media**, a digital media agency. 
 
-#### Objective : 
-The  goal of the project was to uncover trends in client retention, campaign performance, and ROI to help improve future campaigns and client satisfaction.
-
-###  Key Insights
-
-- Clients who invested more in ads achieved better conversion results, with a strong positive correlation (**0.87**) between ad spend and conversions.  
-- Despite high performance, some clients still churned, especially in certain industries.  highlighting the need for **clearer ROI communication** and **industry-specific retention strategies**.
+**Objective :**  The  goal of the project was to uncover trends in client retention, evaluate campaign performance, and ROI to help improve future campaigns and client satisfaction.
+  
+**Key Insight :** 34% of clients were inactive and client contract status was closely linked to industry, with some sectors showing full retention and others full inactivity. Despite a strong correlation between ad spend and performance (r = 0.87), high campaign performance did not ensure retention, highlighting the need for clearer ROI communication and industry-specific retention strategies.
 
 <img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Digital_Advertising_Performance_Analysis/Creative_Pulse_Media_Dashboard.png" alt="Creative_Pulse_Media_Dashboard" style="width: 100%; height: auto;">
 
+[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Digital_Advertising_Performance_Analysis)
 
  #### 3.Employee Performance Analysis
 Analyzed employee performance data to visualize employee distribution by performance category, highlight the top 5 roles by average rating, and assess the impact of training costs on performance ratings. The dashboard provides clear insights to support informed HR decisions.
