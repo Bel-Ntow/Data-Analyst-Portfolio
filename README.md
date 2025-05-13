@@ -117,12 +117,17 @@ Analyzed the performance of digital advertising campaigns for **CreativePulse Me
 
 [View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Digital_Advertising_Performance_Analysis)
 
- #### 3.Employee Performance Analysis
-Analyzed employee performance data to visualize employee distribution by performance category, highlight the top 5 roles by average rating, and assess the impact of training costs on performance ratings. The dashboard provides clear insights to support informed HR decisions.
+#### 3. MedLab Diagnostics Analysis  
+Analyzed diagnostic test data from a biomedical facility in Kumasi to uncover patterns in test demand, patient return behavior, lab efficiency, and referral source performance.
 
-<img src="Projects_Files/Employee_Performancepng.png" style="width: 100%; height: auto;">
+**Objective**: The goal was to improve patient retention, optimize lab workflow during peak/off-peak hours and stabilize revenue by identifying high-demand tests, patient return behavior, and referral effectiveness.
 
-[Explore Project File](Projects_Files/Employee%20Performance%20%20Analytics.xlsx)
+**Key Insight**: Malaria, liver function, pregnancy, cholesterol, and full blood count tests were the most requested tests, while COVID-19 testing was significantly underutilized—reflecting reduced public concern. Only 49.7% of patients returned for additional visits, with pregnancy and liver function tests being the most frequent among returnees. Peak-hour congestion (52.3%) and low walk-in retention suggest a need for improved engagement and better workload distribution. Referral sources like Hospital C and Clinic B brought in the highest number of returning patients, highlighting the importance of strong partnerships.
+
+<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/MedLab%20Diagnostics%20Analysis/Medlab_Diagnostics_Dashboard.png" alt="MedLab Diagnostics Dashboard" style="width: 100%; height: auto;">
+
+[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/MedLab%20Diagnostics%20Analysis)
+
 
 ---
 
