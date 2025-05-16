@@ -137,13 +137,13 @@ In these projects, I used SQL for querying, manipulating, and analyzing datasets
 #### 1.  Customer Loan Database Analysis
 Created and analyzed a customer loan database to assess loan performance, customer repayment behavior, and outstanding balances using SQL queries.
 
-[Explore Code](Projects_Files/Customer%20Loan%20Database.sql)
+[Explore Code](https://github.com/Bel-Ntow/SQL-Projects/tree/main/Loan_Database)
+
 
 #### 2. Sales Analysis
 Used SQL to clean and analyze sales data, uncover trends, and evaluate performance across different segments.
 
-[Explore Code](Projects_Files/Salesr%20Analysis.sql)
-
+[Explore Code](https://github.com/Bel-Ntow/SQL-Projects/tree/main/Sales_Analysis)
 
 
 
