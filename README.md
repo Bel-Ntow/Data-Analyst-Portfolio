@@ -30,8 +30,7 @@ I’m a data analyst with a background in Economics and a strong passion for usi
 
 
 ##  Skills
-- **Languages:** Python, SQL 
--	**Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+- **Languages:** SQL  
 -	**Data Visualization:** Power BI, Advanced Excel  
 -	**Data Handling:** Data Entry & Processing, Data Cleaning, Data Wrangling 
 -	**Reporting & Documentation:** Advanced Excel, MS Word, PowerPoint 
@@ -49,16 +48,20 @@ This section highlights some of my data analysis projects, showcasing my skills 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
   
 #### 1. Retail Sales Analysis  
-Analyzed monthly sales data from two retail stores to assess performance across time and locations.  
+Analyzed multi-location retail sales data to evaluate overall business performance across products, categories, locations, and time (2023 vs 2024).
 
-**Objective**: The goal was to evaluate how sales performed throughout the year and between Store A and Store B, to uncover trends that could guide inventory planning and marketing strategies.  
+**Objective**: The goal was to understand sales performance trends, identify top-performing products and categories, and compare growth across different locations to support better business and inventory decisions.
 
-**Key Insight**: Store A generated higher overall sales ($38,000 vs. $27,000) and consistently outperformed in key categories like Electronics and Clothing, while sales peaked in June and dropped sharply in December — highlighting both location-based performance gaps and seasonal demand trends.  
+**Key Insight**:  The business showed stronger performance in 2024 compared to 2023, with Electronics contributing the highest share of sales (45.4%). Accra Mall emerged as the top-performing location, while November recorded peak sales and May showed the lowest performance, highlighting clear seasonal trends, location-based differences, and strong product demand patterns across the store network.
 
+**Product Performance Tracker**: A second interactive page was built to analyze individual product performance using a matrix table, allowing filtering by product, Month-Year, and location to uncover granular sales insights.
 
-<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Retail_Sales_Analysis/Retail_Sales_Performance_Dashboard.png" alt="Retail Sales Dashboard" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Retail_Sales_Analysis/Sales_Performance_Dashboard.png" alt="Sales_Performance_Dashboard.png">
+
+<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Retail_Sales_Analysis/Performance_Tracker_Image.png" alt="Performance_Tracker_Image.png">
 
 [View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/Retail_Sales_Analysis)
+
 
 
 
