@@ -46,8 +46,22 @@ This section highlights some of my data analysis projects, showcasing my skills 
 ### ►**PowerBI**
 
 In these projects, I used Power BI for data transformation, modeling, and visualization to create interactive dashboards and reports.
+
+#### 1. Community Health Program Monitoring Analysis
+
+This project is a community health program monitoring and evaluation dashboard built using Power BI. It analyzes **beneficiary participation, program outcomes, satisfaction levels**, and **resource utilization** across multiple health program sites from **January** to **June 2026**. 
+The model includes a **date table** to support automatic updates as new data is added, ensuring the dashboard remains current and scalable.
+
+The goal of this project is to provide clear insights into program effectiveness, service delivery performance, and beneficiary engagement through interactive KPIs and visual analytics.
+
+![Community Health Program Dashboard](https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Community_Health_Program_Monitoring_Analysis/Community_Health_Program_Dashboard_Image.png)
+
+
+
+[View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/Community_Health_Program_Monitoring_Analysis)
+
   
-#### 1. Retail Sales Analysis  
+#### 2. Retail Sales Analysis  
 Analyzed multi-location retail sales data to evaluate overall business performance across products, categories, locations, and time (2023 vs 2024).
 
 **Objective**: The goal was to understand sales performance trends, identify top-performing products and categories, and compare growth across different locations to support better business and inventory decisions.
@@ -63,18 +77,6 @@ Analyzed multi-location retail sales data to evaluate overall business performan
 [View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/Retail_Sales_Analysis)
 
 
-
-
-#### 2. NovaPay Transaction Analysis
-Analyzed transaction data for a Ghana-based fintech company (pseudonym: NovaPay) to uncover trends in service usage, customer behavior, and system performance.
-
-**Objective:**  To identify key performance issues and usage patterns that can support growth and improve transaction reliability.
-
-**Key Insight:** NovaPay achieved a 92% transaction success rate, but most failures occurred in Loan Repayments and Bill Payments. Additionally, Accra, despite being the capital, had the lowest customer activity, highlighting untapped engagement potential that could be addressed through targeted marketing or outreach efforts.
-
-<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/NovaPay_Transaction_Insights/NovaPay_Transaction_Analysis_Dashboard.png" alt="NovaPay_Transaction_Analysis_Dashboard" width="100%">
-
-[View Project on GitHub](https://github.com/Bel-Ntow/Power_BI_Projects/tree/main/NovaPay_Transaction_Insights)
 
 
 
