@@ -100,29 +100,36 @@ Analyzed 5,000 call centre records from January to March to uncover trends in se
 ### ►**Excel**
 These projects showcase how I used Excel for data cleaning, analysis, and visualization.
 
-#### 1. Product Sales Analysis  
-Analyzed product sales data from November and December to uncover trends in revenue, sales volume, product performance, and regional and salesperson contributions.  
+#### 1. HR Analytics & Workforce Analysis 
 
-**Objective**: The goal was to understand the factors behind sales fluctuations across the two months, particularly the decline in December and identify which products, regions, and individuals most influenced overall performance.  
+This project is an HR analytics dashboard built using Microsoft Excel. It analyzes employee demographics, workforce composition, attrition trends, retention, and training performance using KPI cards, pivot tables and dashboard visualizations. 
 
-**Key Insight**: A total of 2,580 units were sold, generating GHS 80,421 in revenue, but sales dropped by 48.6% in December due to fewer sales weeks and no contribution from the South region.
+The goal is to support workforce planning, employee retention analysis, and training performance evaluation.
 
-<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Sales_Performance_Analysis/Sales_Analysis_Dashboard.png" alt="Sales Analysis Dashboard" style="width: 100%; height: auto;">
 
-[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Sales_Performance_Analysis)
+**Key Insights**: The workforce is concentrated in **Marketing**, with **mid-level employees** forming the largest job grade group. The organization maintains a predominantly **permanent workforce**, while attrition is mainly driven by **end-of-contract exits** and **resignations**, with a notable proportion of employees leaving within their **first year**. Overall **attrition rate (13.4%)** and **retention rate (79.7%)** indicate moderate workforce stability, while **training ROI (34.8%)** shows strong learning impact.
 
-#### 2.Digital Advertising Campaign Analysis
-Analyzed the performance of digital advertising campaigns for **CreativePulse Media**, a digital media agency. 
 
-**Objective :**  The  goal of the project was to uncover trends in client retention, evaluate campaign performance, and ROI to help improve future campaigns and client satisfaction.
-  
-**Key Insight :** 34% of clients were inactive and client contract status was closely linked to industry, with some sectors showing full retention and others full inactivity. Despite a strong correlation between ad spend and performance (r = 0.87), high campaign performance did not ensure retention, highlighting the need for clearer ROI communication and industry-specific retention strategies.
+<h2>Dashboard Overview</h2>
 
-<img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Digital_Advertising_Performance_Analysis/Creative_Pulse_Media_Dashboard.png" alt="Creative_Pulse_Media_Dashboard" style="width: 100%; height: auto;">
+<table style="border-spacing: 15px;">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Meridian_Group_HR_Analytics/Meridian%20HR%20Dashbord%20Overview.png" width="480"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Meridian_Group_HR_Analytics/Meridian%20HR%20Headcount%20Dashboard.png" width="480"/></td>
+  </tr>
 
-[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Digital_Advertising_Performance_Analysis)
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Meridian_Group_HR_Analytics/Meridian%20HR%20Training%20Dashboard.png" width="480"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bel-Ntow/Excel-Projects/main/Meridian_Group_HR_Analytics/Meridian%20Hr%20Attrition%20Dashboard.png" width="480"/></td>
+  </tr>
+</table>
 
-#### 3. MedLab Diagnostics Analysis  
+
+
+[View Project on GitHub](https://github.com/Bel-Ntow/Excel-Projects/tree/main/Meridian_Group_HR_Analytics)
+
+
+#### 2. MedLab Diagnostics Analysis  
 Analyzed diagnostic test data from a biomedical facility in Kumasi to uncover patterns in test demand, patient return behavior, lab efficiency, and referral source performance.
 
 **Objective**: The goal was to improve patient retention, optimize lab workflow during peak/off-peak hours and stabilize revenue by identifying high-demand tests, patient return behavior, and referral effectiveness.
